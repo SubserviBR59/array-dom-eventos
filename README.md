@@ -1,5 +1,5 @@
 
-# Semana 04 - Arrays, DOM e Eventos
+# Arrays, DOM e Eventos
 
 ## Descrição do Projeto
 
